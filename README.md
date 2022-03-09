@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project with the Odin Project and this is a website that is built with three separate waffles recipes. This project allows me to practice creating directories, html files and opening those files fro the terminal. After opening the files I was able to practice writing boilerplate html for all pages, including headers, lists (both unordered and ordered lists) adding images and then linking the pages together from the index.html file as the homepage. 
